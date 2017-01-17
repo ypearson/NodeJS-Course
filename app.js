@@ -19,7 +19,7 @@
 
 // greet();
 
-// // object literal
+// // object literal has inspired JSON, Javascript Object Notation
 // var person = {
 //     firstname: 'John',
 //     lastname: 'Doe',
